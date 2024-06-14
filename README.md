@@ -19,4 +19,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the backend repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/yasiruranathunga/FAQ-manager-Backend.git
